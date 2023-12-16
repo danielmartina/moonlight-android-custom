@@ -214,7 +214,7 @@
     <string name="pacing_smoothness">Ưu tiên video mượt nhất (có thể tăng độ trễ đáng kể)</string>
     <string name="resolution_480p">480p</string>
     <string name="fps_120">120 FPS</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_720p">720p</string>
     <string name="resolution_1080p">1080p</string>
     <string name="resolution_1440p">1440p</string>

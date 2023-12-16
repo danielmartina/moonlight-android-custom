@@ -121,7 +121,7 @@
     <string name="title_enable_post_stream_toast">Mostrar aviso de latência após terminar a transmissão</string>
     <string name="title_troubleshooting">Guia de solução de problemas</string>
     <string name="summary_troubleshooting">Veja dicas para diagnosticar e corrigir problemas comuns de streaming</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_1080p">1080p</string>
     <string name="fps_60">60 FPS</string>
     <string name="fps_90">90 FPS</string>
