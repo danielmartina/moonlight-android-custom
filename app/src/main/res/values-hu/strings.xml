@@ -210,7 +210,7 @@
     <string name="title_checkbox_reduce_refresh_rate">A frissítési sebesség csökkentésének engedélyezése</string>
     <string name="summary_frame_pacing">A videók késleltetésének és simaságának egyensúlyának megadása</string>
     <string name="title_checkbox_enable_audiofx">Rendszeres kiegyenlítő támogatás engedélyezése</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="title_native_fps_dialog">Natív FPS figyelmeztetés</string>
     <string name="pacing_balanced">Kiegyensúlyozott</string>
     <string name="summary_full_range">Ez részletvesztést okoz a világos és sötét területeken, ha a készülék nem jeleníti meg megfelelően a teljes tartományú videotartalmat.</string>
