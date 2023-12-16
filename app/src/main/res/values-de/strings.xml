@@ -227,7 +227,7 @@
     <string name="pacing_balanced">Ausgeglichen</string>
     <string name="pacing_smoothness">Bevorzuge flüssige Bildwiedergabe (kann die Latenzzeit deutlich erhöhen)</string>
     <string name="perf_overlay_streamdetails">Video Stream: %1$s %2$.2f FPS</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_1080p">1080p</string>
     <string name="resolution_1440p">1440p</string>
     <string name="resolution_4k">4K</string>
