@@ -102,7 +102,7 @@ public class PreferenceConfiguration {
     public static final int FRAME_PACING_CAP_FPS = 2;
     public static final int FRAME_PACING_MAX_SMOOTHNESS = 3;
 
-    public static final String RES_360P = "640x360";
+    public static final String RES_360P = "1752x2800";
     public static final String RES_480P = "854x480";
     public static final String RES_720P = "1280x720";
     public static final String RES_1080P = "1920x1080";
