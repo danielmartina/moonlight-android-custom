@@ -228,7 +228,7 @@
     <string name="fps_60">60 FPS</string>
     <string name="fps_90">90 FPS</string>
     <string name="fps_120">120 FPS</string>
-    <string name="resolution_360p">360P</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_720p">720P</string>
     <string name="resolution_480p">480P</string>
     <string name="resolution_1080p">1080P</string>

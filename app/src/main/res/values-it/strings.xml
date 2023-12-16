@@ -196,7 +196,7 @@
     <string name="summary_checkbox_flip_face_buttons">Inverte i bottoni A/B e X/Y sui controller e sui controlli a schermo</string>
     <string name="summary_checkbox_vibrate_fallback">Fa vibrare il tuo dispositivo per emulare la vibrazione del controller se questo non la supporta</string>
     <string name="summary_checkbox_vibrate_osc">Fa vibrare il tuo dispositivo per emulare la vibrazione con i controlli a schermo</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_480p">480p</string>
     <string name="resolution_720p">720p</string>
     <string name="resolution_1080p">1080p</string>

@@ -160,7 +160,7 @@
     <string name="summary_reset_osc">Reiniciar toda la configuración a las predeterminadas de tamaño y posición para los controles en pantalla</string>
     <string name="summary_troubleshooting">Mostrar consejos para diagnosticar y corregir errores comunes respecto a la transmisión</string>
     <string name="title_privacy_policy">Política de Privacidad</string>
-    <string name="resolution_360p">360p</string>
+    <string name="resolution_360p">1752x2800</string>
     <string name="resolution_1440p">1440p</string>
     <string name="resolution_4k">4K</string>
     <string name="suffix_osc_opacity">%</string>
