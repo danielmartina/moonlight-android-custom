@@ -2146,13 +2146,6 @@ public class Game extends Activity implements SurfaceHolder.Callback,
     @SuppressLint("ClickableViewAccessibility")
     @Override
     public boolean onTouch(View view, MotionEvent event) {
-        if (event.getAction() == MotionEvent.ACTION_DOWN) {
-            // Tell the OS not to buffer input events for us
-            //
-            // NB: This is still needed even when we call the newer requestUnbufferedDispatch()!
-            view.requestUnbufferedDispatch(event);
-        }
-
         return handleMotionEvent(view, event);
     }
 
