@@ -40,6 +40,11 @@
             android:key="checkbox_stretch_video"
             android:title="@string/title_checkbox_stretch_video"
             android:defaultValue="false" />
+        <CheckBoxPreference
+            android:key="checkbox_sync_touch_event_with_display"
+            android:title="@string/title_checkbox_sync_touch_event_with_display"
+            android:summary="@string/summary_checkbox_sync_touch_event_with_display"
+            android:defaultValue="true" />
     </PreferenceCategory>
     <PreferenceCategory android:title="@string/category_audio_settings">
         <ListPreference
